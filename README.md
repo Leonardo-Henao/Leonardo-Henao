@@ -63,3 +63,6 @@ I'm always eager to lend a helping hand to anyone in need. Passionate about tech
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
