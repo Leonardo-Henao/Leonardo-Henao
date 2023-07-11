@@ -14,10 +14,22 @@ I'm always eager to lend a helping hand to anyone in need. Passionate about tech
 <a href="https://leonardohenao.com">
   <img align="top" src="https://github-readme-stats-leonardo-henao.vercel.app/api?username=leonardo-henao&show_icons=true&theme=transparent&hide_border=true" />
 </a>
-<a href="https://leonardohenao.com">
-  <img align="center" src="https://github-readme-stats-leonardo-henao.vercel.app/api/top-langs?username=leonardo-henao&size_weight=0.5&count_weight=0.5&layout=donut-vertical&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
-</a>
 </p>
+
+<p>
+<details> <summary>Github Code Statistics</summary> 
+<p align="center">
+<img src="https://wakatime.com/share/@3ebdb572-5f3c-4060-96ed-6aa9dc5cf81d/15ba4511-58e1-4169-8ed6-165624387f5e.svg">
+</p></details>
+<br>
+<details> <summary>Github Editors Statistics</summary> 
+<p align="center">
+<img align="center" src="https://wakatime.com/share/@3ebdb572-5f3c-4060-96ed-6aa9dc5cf81d/286193f8-b5d9-4d2e-9cf5-9cc9423bb53e.svg">
+</p>
+</details>
+</p>
+
+<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
@@ -36,7 +48,6 @@ I'm always eager to lend a helping hand to anyone in need. Passionate about tech
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white">
 </p>
 
 <br><br>
@@ -63,6 +74,3 @@ I'm always eager to lend a helping hand to anyone in need. Passionate about tech
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
